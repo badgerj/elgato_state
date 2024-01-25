@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+cd ~/dev/elgato_state
+source .venv/bin/activate
+python3 ./elgato_state/elgato_on.py

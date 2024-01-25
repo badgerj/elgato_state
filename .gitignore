@@ -1,0 +1,10 @@
+*.egg-info/
+.tox
+.env
+/env
+*egg
+dist
+doc
+output
+.venv
+/venv
